@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 디비연결에 필요한 연결정보 저장 -->
+<Context>
+   <Resource 
+   	 name="jdbc/c7d2301t1" 
+   	 auth="Container" 
+   	 type="javax.sql.DataSource" 
+   	 driverClassName="com.mysql.cj.jdbc.Driver" 
+   	 url ="jdbc:mysql://itwillbs.com/c7d2301t1" 
+   	 username ="c7d2301t1" 
+   	 password ="1234"   
+   	 maxWait="5000"	 	
+   />
+</Context>
+
+
+
+
+
+
+
+
+
+
+
+
